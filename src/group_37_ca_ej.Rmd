@@ -26,4 +26,4 @@ ggplot(data = ces, aes(x = white, y = ces_3_0_score)) +
   scale_fill_gradient(low = "navy", high = "orange") +
   theme_minimal()
 ```
-
+There appears to be a higher pollution burden score when there is a smaller population identifying as white. There is a weak negative linear relationship between pollution burden score and the population that identifies as white. 
